@@ -73,4 +73,4 @@ The program offers a simple command-line interface. The user is prompted to choo
 -**Graphical User Interface (GUI)**: A GUI using Tkinter or another framework for a more user-friendly interface.
 
 ## License
-This project is open-source and available under the MIT License.
+This project is open-source and available under the MIT License.# Gradebook-CLI
